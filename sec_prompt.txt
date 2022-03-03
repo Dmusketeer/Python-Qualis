@@ -1,0 +1,12 @@
+>>> def add2num(x, y):
+...       "This function returns sum of two numbers."
+...       return x + y
+>>> add2num(6, 7)
+13
+>>> add2num(-8.5, 7)
+-1.5
+
+
+
+
+
