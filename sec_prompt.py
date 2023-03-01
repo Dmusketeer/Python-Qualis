@@ -6,7 +6,4 @@ def add2num(x, y):
     -2.5
     """
     return x + y
-
-
-
-    # python -m doctest sec_prompt.py
+# python -m doctest sec_prompt.py
